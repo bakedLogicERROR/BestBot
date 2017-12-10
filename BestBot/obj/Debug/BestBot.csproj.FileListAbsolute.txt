@@ -1,0 +1,62 @@
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\BestBot.exe.config
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\BestBot.exe
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\BestBot.pdb
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Discord.Net.Commands.dll
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Discord.Net.Core.dll
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Discord.Net.Rest.dll
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Discord.Net.Rpc.dll
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Discord.Net.Webhook.dll
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Discord.Net.WebSocket.dll
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Newtonsoft.Json.dll
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\System.Collections.Immutable.dll
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\System.Interactive.Async.dll
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Discord.Net.Commands.xml
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Discord.Net.Core.xml
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Discord.Net.Rest.xml
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Discord.Net.Rpc.xml
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Discord.Net.Webhook.xml
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Discord.Net.WebSocket.xml
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\Newtonsoft.Json.xml
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\System.Collections.Immutable.xml
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\bin\Debug\System.Interactive.Async.xml
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\obj\Debug\BestBot.csprojResolveAssemblyReference.cache
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\obj\Debug\BestBot.exe
+c:\users\nathan\documents\visual studio 2017\Projects\BestBot\BestBot\obj\Debug\BestBot.pdb
+D:\BotFiles\BestBot\BestBot\bin\Debug\BestBot.exe.config
+D:\BotFiles\BestBot\BestBot\bin\Debug\BestBot.exe.manifest
+D:\BotFiles\BestBot\BestBot\bin\Debug\BestBot.application
+D:\BotFiles\BestBot\BestBot\bin\Debug\BestBot.exe
+D:\BotFiles\BestBot\BestBot\bin\Debug\BestBot.pdb
+D:\BotFiles\BestBot\BestBot\bin\Debug\Discord.Net.Commands.dll
+D:\BotFiles\BestBot\BestBot\bin\Debug\Discord.Net.Core.dll
+D:\BotFiles\BestBot\BestBot\bin\Debug\Discord.Net.Rest.dll
+D:\BotFiles\BestBot\BestBot\bin\Debug\Discord.Net.Rpc.dll
+D:\BotFiles\BestBot\BestBot\bin\Debug\Discord.Net.Webhook.dll
+D:\BotFiles\BestBot\BestBot\bin\Debug\Discord.Net.WebSocket.dll
+D:\BotFiles\BestBot\BestBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BotFiles\BestBot\BestBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\BotFiles\BestBot\BestBot\bin\Debug\Newtonsoft.Json.dll
+D:\BotFiles\BestBot\BestBot\bin\Debug\System.Collections.Immutable.dll
+D:\BotFiles\BestBot\BestBot\bin\Debug\System.Interactive.Async.dll
+D:\BotFiles\BestBot\BestBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BotFiles\BestBot\BestBot\bin\Debug\Discord.Net.Commands.xml
+D:\BotFiles\BestBot\BestBot\bin\Debug\Discord.Net.Core.xml
+D:\BotFiles\BestBot\BestBot\bin\Debug\Discord.Net.Rest.xml
+D:\BotFiles\BestBot\BestBot\bin\Debug\Discord.Net.Rpc.xml
+D:\BotFiles\BestBot\BestBot\bin\Debug\Discord.Net.Webhook.xml
+D:\BotFiles\BestBot\BestBot\bin\Debug\Discord.Net.WebSocket.xml
+D:\BotFiles\BestBot\BestBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\BotFiles\BestBot\BestBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\BotFiles\BestBot\BestBot\bin\Debug\Newtonsoft.Json.xml
+D:\BotFiles\BestBot\BestBot\bin\Debug\System.Collections.Immutable.xml
+D:\BotFiles\BestBot\BestBot\bin\Debug\System.Interactive.Async.xml
+D:\BotFiles\BestBot\BestBot\obj\Debug\BestBot.csprojResolveAssemblyReference.cache
+D:\BotFiles\BestBot\BestBot\obj\Debug\BestBot.exe.manifest
+D:\BotFiles\BestBot\BestBot\obj\Debug\BestBot.application
+D:\BotFiles\BestBot\BestBot\obj\Debug\BestBot.exe
+D:\BotFiles\BestBot\BestBot\obj\Debug\BestBot.pdb
